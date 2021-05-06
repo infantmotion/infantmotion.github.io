@@ -1,6 +1,5 @@
-<p align="center">
 ## Unsupervised Human Pose Estimation through Transforming Shape Templates
-</p>  
+
   
 ### Abstract
 Human pose estimation is a major computer vision problem with applications ranging from augmented reality and video capture to
