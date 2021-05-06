@@ -16,7 +16,10 @@ predefined body parts that are characterized by 2D Gaussian distributions. Enfor
 human shape representations. We demonstrate the effectiveness of our approach on two different datasets including adults and infants.
 
 ### Results (infants)
-<video src="clip1.mp4" width="552" height="276" controls preload></video>  <video src="clip2.mp4" width="552" height="276" controls preload></video>
+<p align="middle">
+  <video src="clip1.mp4" width="552" height="276" controls preload> />
+  <video src="clip2.mp4" width="552" height="276" controls preload> />
+</p>
 
 ### Paper
 coming soon
