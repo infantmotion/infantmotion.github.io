@@ -1,5 +1,7 @@
+<p align="center">
 ## Unsupervised Human Pose Estimation through Transforming Shape Templates
-
+  
+  
 ### Abstract
 Human pose estimation is a major computer vision problem with applications ranging from augmented reality and video capture to
 surveillance and movement tracking. In the medical context, the latter may be an important biomarker for neurological impairments in
@@ -19,5 +21,7 @@ coming soon
 
 ### Code
 coming soon
+</p>
+
 
 
