@@ -1,4 +1,5 @@
 ## Unsupervised Human Pose Estimation through Transforming Shape Templates
+Luca Schmidtke, Athanasios Vlontzos, Simon Ellershaw, Anna Lukens, Tomoki Arichi and Bernhard Kainz
 
   
 ### Abstract
