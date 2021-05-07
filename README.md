@@ -1,5 +1,5 @@
 ## Unsupervised Human Pose Estimation through Transforming Shape Templates
-Luca Schmidtke<sup>1</sup>, [Athanasios Vlontzos<sup>1</sup>](https://thanosvlo.github.io/), Simon Ellershaw<sup>1</sup>, Anna Lukens,<sup>3</sup> Tomoki Arichi<sup>2</sup> and Bernhard Kainz<sup>1</sup>
+Luca Schmidtke<sup>1</sup>, [Athanasios Vlontzos<sup>1</sup>](https://scholar.google.co.uk/citations?user=XTkiyj4AAAAJ&hl=en), Simon Ellershaw<sup>1</sup>, Anna Lukens,<sup>3</sup> Tomoki Arichi<sup>2</sup> and [Bernhard Kainz<sup>1</sup>](http://bernhard-kainz.com/)
 
 <sup>1</sup>Imperial College London, <sup>2</sup> King's College London, <sup>3</sup> Evelina Children's Hospital
 
