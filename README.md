@@ -3,6 +3,8 @@ Luca Schmidtke<sup>1</sup>, Athanasios Vlontzos<sup>1</sup>, Simon Ellershaw<sup
 
 <sup>1</sup>Imperial College London, <sup>2</sup> King's College London, <sup>3</sup> Evelina Children's Hospital
 
+![alt text](method_figure.png)
+
 
   
 ### Abstract
