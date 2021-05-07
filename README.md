@@ -19,8 +19,8 @@ human shape representations. We demonstrate the effectiveness of our approach on
 
 ### Results (infants)
 <p align="middle">
-  <video src="clip1.mp4" width="414" height="207" controls preload> </video>
-  <video src="clip2.mp4" width="414" height="207" controls preload> </video>
+  <video src="infant_clip1.mp4" width="414" height="207" controls preload> </video>
+  <video src="infant_clip2.mp4" width="414" height="207" controls preload> </video>
 </p>
 
 ### Paper
