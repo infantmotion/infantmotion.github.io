@@ -1,5 +1,5 @@
 ## Unsupervised Human Pose Estimation through Transforming Shape Templates
-[Luca Schmidtke<sup>1</sup>](https://www.linkedin.com/in/luca-schmidtke/), [Athanasios Vlontzos<sup>1</sup>](https://scholar.google.co.uk/citations?user=XTkiyj4AAAAJ&hl=en), [Simon Ellershaw<sup>1</sup>](https://www.linkedin.com/in/simon-ellershaw-41327b154/?originalSubdomain=uk), Anna Lukens,<sup>3</sup> [Tomoki Arichi<sup>2</sup>](http://www.perinatal-functional-imaging.co.uk/) and [Bernhard Kainz<sup>1</sup>](http://bernhard-kainz.com/)
+[Luca Schmidtke<sup>1</sup>](https://www.linkedin.com/in/luca-schmidtke/), [Athanasios Vlontzos<sup>1</sup>](https://scholar.google.co.uk/citations?user=XTkiyj4AAAAJ&hl=en), [Simon Ellershaw<sup>1</sup>](https://www.linkedin.com/in/simon-ellershaw-41327b154/?originalSubdomain=uk), [Anna Lukens,<sup>3</sup>](http://www.perinatal-functional-imaging.co.uk/) [Tomoki Arichi<sup>2</sup>](http://www.perinatal-functional-imaging.co.uk/) and [Bernhard Kainz<sup>1</sup>](http://bernhard-kainz.com/)
 
 <sup>1</sup>Imperial College London, <sup>2</sup> King's College London, <sup>3</sup> Evelina Children's Hospital
 
