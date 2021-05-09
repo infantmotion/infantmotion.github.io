@@ -23,6 +23,13 @@ human shape representations. We demonstrate the effectiveness of our approach on
   <video src="infant_clip2.mp4" width="414*1.25" height="207*1.25" controls preload> </video>
 </p>
 
+### Results (adults, Human3.6m)
+<p align="middle">
+  <video src="h36m_clip1.mp4" width="414*1.5" height="207*1.5" controls preload> </video>
+  <video src="h36m_clip2.mp4" width="414*1.5" height="207*1.5" controls preload> </video>
+</p>
+
+
 ### Paper
 coming soon
 
