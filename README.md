@@ -35,7 +35,7 @@ human shape representations. We demonstrate the effectiveness of our approach on
 ### Code
 coming soon
 
-### [<img src="biomedia_logo.png" width="40%" height="40%">](https://biomedia.doc.ic.ac.uk/) [<img src="imperial_logo.png" width="40%" height="40%">](https://www.imperial.ac.uk/) 
+### [<img src="biomedia_logo.png" width="30%" height="30%">](https://biomedia.doc.ic.ac.uk/) &nbsp; &nbsp; [<img src="imperial_logo.png" width="30%" height="30%">](https://www.imperial.ac.uk/) &nbsp; &nbsp; [<img src="EPSRC_logo.png" width="35%" height="35%">](https://epsrc.ukri.org/)
 
 
 
