@@ -38,7 +38,7 @@ coming soon
 
 &nbsp;
 
-### [<img src="biomedia_logo.png" width="25%" height="25%">](https://biomedia.doc.ic.ac.uk/) &nbsp; &nbsp; [<img src="imperial_logo.png" width="25%" height="25%">](https://www.imperial.ac.uk/) &nbsp; &nbsp; [<img src="EPSRC_logo.png" width="30%" height="30%">](https://epsrc.ukri.org/)  &nbsp; &nbsp; [<img src="evelina_logo.png" width="30%" height="30%">](https://www.evelinalondon.nhs.uk/Home.aspx) 
+### [<img src="biomedia_logo.png" width="20%" height="20%">](https://biomedia.doc.ic.ac.uk/) &nbsp; &nbsp; [<img src="imperial_logo.png" width="20%" height="20%">](https://www.imperial.ac.uk/) &nbsp; &nbsp; [<img src="EPSRC_logo.png" width="25%" height="25%">](https://epsrc.ukri.org/)  &nbsp; &nbsp; [<img src="evelina_logo.png" width="25%" height="25%">](https://www.evelinalondon.nhs.uk/Home.aspx) 
 
 
 
