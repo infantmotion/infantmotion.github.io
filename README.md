@@ -1,3 +1,6 @@
+
+### [<img src="biomedia_logo.png" width="25%" height="25%">](https://biomedia.doc.ic.ac.uk/) &nbsp; &nbsp; [<img src="imperial_logo.png" width="25%" height="25%">](https://www.imperial.ac.uk/) &nbsp; &nbsp; [<img src="EPSRC_logo.png" width="30%" height="30%">](https://epsrc.ukri.org/)
+
 ## Unsupervised Human Pose Estimation through Transforming Shape Templates
 [Luca Schmidtke<sup>1</sup>](https://www.linkedin.com/in/luca-schmidtke/), [Athanasios Vlontzos<sup>1</sup>](https://scholar.google.co.uk/citations?user=XTkiyj4AAAAJ&hl=en), [Simon Ellershaw<sup>1</sup>](https://www.linkedin.com/in/simon-ellershaw-41327b154/?originalSubdomain=uk), [Anna Lukens,<sup>3</sup>](http://www.perinatal-functional-imaging.co.uk/) [Tomoki Arichi<sup>2</sup>](http://www.perinatal-functional-imaging.co.uk/) and [Bernhard Kainz<sup>1</sup>](http://bernhard-kainz.com/)
 
@@ -34,8 +37,6 @@ human shape representations. We demonstrate the effectiveness of our approach on
 
 ### Code
 coming soon
-
-### [<img src="biomedia_logo.png" width="30%" height="30%">](https://biomedia.doc.ic.ac.uk/) &nbsp; &nbsp; [<img src="imperial_logo.png" width="30%" height="30%">](https://www.imperial.ac.uk/) &nbsp; &nbsp; [<img src="EPSRC_logo.png" width="35%" height="35%">](https://epsrc.ukri.org/)
 
 
 
