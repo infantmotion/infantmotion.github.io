@@ -5,7 +5,7 @@
 
 ![alt text](method_figure.png)
 
-
+## [<img src="pages1.png" width="75%" height="75%">](cvpr2021.pdf)
   
 ### Abstract
 Human pose estimation is a major computer vision problem with applications ranging from augmented reality and video capture to
