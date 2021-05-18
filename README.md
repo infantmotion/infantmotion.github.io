@@ -39,12 +39,14 @@ coming soon
 &nbsp;
 
 ### Citation
-@inproceedings{Schmidtke2021CVPR,
+<div style="text-align: left">
+@inproceedings{Schmidtke2021CVPR,<br/>
           author    = {Luca Schmidtke, Athanasios Vlontzos, Simon Ellershaw, Anna Lukens, Tomoki Arichi, and Bernhard Kainz},<br/>
           title     = {Unsupervised Human Pose Estimation through Transforming Shape Templates},<br/>
           booktitle   = {Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)},<br/>
           year      = {2021},<br/>
         }
+</div>
 
 ### [<img src="biomedia_logo.png" width="20%" height="20%">](https://biomedia.doc.ic.ac.uk/) &nbsp; &nbsp; [<img src="imperial_logo.png" width="20%" height="20%">](https://www.imperial.ac.uk/) &nbsp; &nbsp; [<img src="EPSRC_logo.png" width="25%" height="25%">](https://epsrc.ukri.org/)  &nbsp; &nbsp; [<img src="evelina_logo.png" width="25%" height="25%">](https://www.evelinalondon.nhs.uk/Home.aspx) 
 
