@@ -36,15 +36,18 @@ human shape representations. We demonstrate the effectiveness of our approach on
 coming soon
 
 ### Cite
-@inproceedings{LSchmidtke2021,\
-  author = {Luca Schmidtke, Athanasios Vlontzos, Simon Ellershaw, Anna Lukens, Tomoki Arichi, and Bernhard Kainz},\
-  title = {Unsupervised Human Pose Estimation through Transforming Shape Templates},\
-  booktitle = {Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)},\
-  year = {2021},
+<p style='text-align: right;'>
+@inproceedings{LSchmidtke2021,<br>
+  author = {Luca Schmidtke, Athanasios Vlontzos, Simon Ellershaw, Anna Lukens, Tomoki Arichi, and Bernhard Kainz},<br>
+  title = {Unsupervised Human Pose Estimation through Transforming Shape Templates},<br>
+  booktitle = {Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)},<br>
+  year = {2021},<br>
 }
+ </p>
 &nbsp;
 
 &nbsp;
+
 
 ### [<img src="biomedia_logo.png" width="20%" height="20%">](https://biomedia.doc.ic.ac.uk/) &nbsp; &nbsp; [<img src="imperial_logo.png" width="20%" height="20%">](https://www.imperial.ac.uk/) &nbsp; &nbsp; [<img src="EPSRC_logo.png" width="25%" height="25%">](https://epsrc.ukri.org/)  &nbsp; &nbsp; [<img src="evelina_logo.png" width="25%" height="25%">](https://www.evelinalondon.nhs.uk/Home.aspx) 
 
