@@ -36,7 +36,7 @@ human shape representations. We demonstrate the effectiveness of our approach on
 coming soon
 
 ### Cite
-<p style='text-align: right;'>
+<p style='text-align: left;'>
 @inproceedings{LSchmidtke2021,<br>
   author = {Luca Schmidtke, Athanasios Vlontzos, Simon Ellershaw, Anna Lukens, Tomoki Arichi, and Bernhard Kainz},<br>
   title = {Unsupervised Human Pose Estimation through Transforming Shape Templates},<br>
