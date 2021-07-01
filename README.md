@@ -34,6 +34,14 @@ human shape representations. We demonstrate the effectiveness of our approach on
 
 ### Code
 coming soon
+
+### Cite
+@inproceedings{LSchmidtke2021,\
+  author = {Luca Schmidtke, Athanasios Vlontzos, Simon Ellershaw, Anna Lukens, Tomoki Arichi, and Bernhard Kainz},\
+  title = {Unsupervised Human Pose Estimation through Transforming Shape Templates},\
+  booktitle = {Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)},\
+  year = {2021},
+}
 &nbsp;
 
 &nbsp;
