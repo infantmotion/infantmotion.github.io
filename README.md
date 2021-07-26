@@ -33,7 +33,7 @@ human shape representations. We demonstrate the effectiveness of our approach on
 </p>
 
 ### Code
-[github](https://github.com/lschmidtke/shape_templates.git)
+[github](https://github.com/lschmidtke/shape_templates)
 
 ### Cite
 ```
