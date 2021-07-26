@@ -36,14 +36,14 @@ human shape representations. We demonstrate the effectiveness of our approach on
 [github](https://github.com/lschmidtke/shape_templates.git)
 
 ### Cite
-<p style='text-align: left;'>
-@inproceedings{LSchmidtke2021,<br>
-  author = {Luca Schmidtke, Athanasios Vlontzos, Simon Ellershaw, Anna Lukens, Tomoki Arichi, and Bernhard Kainz},<br>
-  title = {Unsupervised Human Pose Estimation through Transforming Shape Templates},<br>
-  booktitle = {Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)},<br>
-  year = {2021},<br>
+```
+@inproceedings{LSchmidtke2021,
+  author = {Luca Schmidtke, Athanasios Vlontzos, Simon Ellershaw, Anna Lukens, Tomoki Arichi, and Bernhard Kainz},
+  title = {Unsupervised Human Pose Estimation through Transforming Shape Templates},
+  booktitle = {Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)},
+  year = {2021},
 }
- </p>
+ ```
 &nbsp;
 
 &nbsp;
