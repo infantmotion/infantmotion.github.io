@@ -1,7 +1,8 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+# hard-coded workaround, see https://github.com/pages-themes/minimal/issues/115
+@import 'jekyll-theme-minimal';
 
 body {
   max-width: 60%;
