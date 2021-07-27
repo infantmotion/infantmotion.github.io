@@ -8,7 +8,10 @@
 ### Paper 
 [<img src="pages1.png" width="75%" height="75%">](cvpr2021.pdf)
 
-[arXiv](https://arxiv.org/abs/2105.04154)
+[arXiv](https://arxiv.org/abs/2105.04154) [video](https://www.youtube.com/watch?v=KMvqamvdiz8&ab_channel=BernhardKainz)
+
+### Code
+[github](https://github.com/lschmidtke/shape_templates)
   
 ### Abstract
 *Human pose estimation is a major computer vision problem with applications ranging from augmented reality and video capture to
@@ -31,9 +34,6 @@ human shape representations. We demonstrate the effectiveness of our approach on
   <video src="h36m_clip1.mp4" width="414*1.3" height="207*1.3" controls preload> </video>
   <video src="h36m_clip2.mp4" width="414*1.3" height="207*1.3" controls preload> </video>
 </p>
-
-### Code
-[github](https://github.com/lschmidtke/shape_templates)
 
 ### Cite
 ```
